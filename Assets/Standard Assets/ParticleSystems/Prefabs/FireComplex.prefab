@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 19900002}
   m_Layer: 0
   m_Name: Flames
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4894,7 +4894,7 @@ GameObject:
   - component: {fileID: 19900004}
   m_Layer: 8
   m_Name: Fire
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9638,7 +9638,7 @@ GameObject:
   - component: {fileID: 11400000}
   m_Layer: 0
   m_Name: Light
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9745,7 +9745,7 @@ GameObject:
   - component: {fileID: 19900006}
   m_Layer: 8
   m_Name: SparksRising
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14696,7 +14696,7 @@ GameObject:
   - component: {fileID: 19900008}
   m_Layer: 8
   m_Name: SmokeLit
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19467,7 +19467,7 @@ GameObject:
   - component: {fileID: 19900010}
   m_Layer: 14
   m_Name: Glow
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24157,7 +24157,7 @@ GameObject:
   - component: {fileID: 19900012}
   m_Layer: 8
   m_Name: SparksFalling
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28910,7 +28910,7 @@ GameObject:
   - component: {fileID: 19900014}
   m_Layer: 8
   m_Name: SmokeDark
-  m_TagString: Untagged
+  m_TagString: Fire
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
